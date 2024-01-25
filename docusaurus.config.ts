@@ -55,7 +55,7 @@ const config: Config = {
       title: 'Rivendell',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/riv.png',
+        src: 'img/R.png',
       },
       items: [
         {
