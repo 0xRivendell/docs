@@ -28,7 +28,5 @@ There are two major issues:
 
 ---
 
-**This is what Rivendell is all about. We're building bridges between the islands, letting money flow freely, and making DeFi accessible to everyone. Our SDK supercharges your application in < 5 lines of code! Giving your users the superpowers to tap into liquidity and seamlessly execute Swaps, Bridging, Staking etc without any hassle.**
+**This is what Rivendell is all about. We're building bridges between the islands, letting money flow freely, and making DeFi accessible to everyone. Our SDK supercharges your application in < 5 lines of code! Giving your users the superpowers to tap into liquidity and seamlessly execute Swaps, Bridging, Staking etc without any hassle. 🚀✨**
 
-**So, here's the deal, folks: while all these DeFi terms might seem like a walk in the park, it's not, it's more of a wild jungle out there; filled with its fair share of scams and shenanigans.
-That's where we come in. Rivendell makes swapping, yielding, and bridging your crypto assets as smooth as butter on a hot day – no fuss, no muss, and, most importantly, no shady business. With Rivendell, you can navigate the DeFi wilderness with ease, knowing all the complexities are being taken care of. Easy, hassle-free, and secure – that's how we roll!" 🚀✨**
