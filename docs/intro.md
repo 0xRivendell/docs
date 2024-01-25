@@ -1,47 +1,54 @@
 ---
-sidebar_position: 1
+
+sidebar_label: Introduction
+sidebar_position: 0
+keywords:
+  [
+    Base,
+    Ethereum L2,
+    Coinbase,
+    decentralization,
+    cryptoeconomy,
+    cryptocurrency,
+    crypto,
+    EVM,
+    blockchain,
+    OP Stack,
+    Optimism,
+    intents,
+    web3 UX,
+    defi automation,
+  ]
+
+slug: /
 ---
+![Rivendell](../static/img//banner.png)
 
-# Tutorial Intro
+# Rivendell: Unifying DeFi for a Frictionless Future
+Welcome to Rivendell. - The Future of Web3 Usability! Tired of the cumbersome process of swapping tokens and repaying loans? Bril changes the game. Just type your transaction, and we handle the rest. Dive into our user-friendly world, where complex Web3 tasks become effortless.
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Rivendell is an all-in-one SDK built to tackle DeFi's fragmentation and make it more accessible to everyone. We believe the current DeFi user experience is far from ideal, and that a complete revamp is necessary to attract new users and unlock DeFi's true potential.
 
-## Getting Started
+## The Problem
 
-Get started by **creating a new site**.
+Decentralized finance (DeFi) holds immense promise for a more open and inclusive financial system. However, its current state is marred by fragmentation, complexity, and a user experience that can be downright intimidating.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- **Fragmented Protocols:** DeFi is a vast ecosystem of protocols, each with its own unique features and interfaces. This makes it difficult for users to navigate and find the right tools for their needs.
 
-### What you'll need
+- **Complex User Interfaces:** Many DeFi protocols are built by developers, not designers. This often results in clunky and confusing interfaces that are unintuitive for newcomers.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- **Security Concerns:** The DeFi space is rife with scams and exploits, making it a risky place for inexperienced users to venture.
 
-## Generate a new site
+## The Rivendell Solution
 
-Generate a new Docusaurus site using the **classic template**.
+Rivendell takes a comprehensive approach to solving these problems. Our unified SDK provides a single point of access to a wide range of DeFi protocols, wrapped in a user-friendly interface that is both powerful and intuitive.
 
-The classic template will automatically be added to your project after you run the command:
+- **Unified Access:** Rivendell acts as a bridge between users and various DeFi protocols. Users can interact with different protocols seamlessly through a single interface, eliminating the need to jump between multiple platforms.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+- **Simplified User Experience:** We prioritize user experience by providing a clean, intuitive interface that abstracts away the complexity of underlying DeFi protocols. This makes DeFi accessible to even those with limited technical knowledge.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+- **Enhanced Security:** Rivendell leverages advanced security measures to protect users from scams and exploits. We are committed to building a safe and secure platform for everyone.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+## Building a Brighter Future for DeFi
 
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Rivendell is more than just an SDK; it's a vision for a future where DeFi is accessible to everyone. We believe that by simplifying the user experience and unifying the DeFi landscape, we can unlock the true potential of this transformative technology.
