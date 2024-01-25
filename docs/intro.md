@@ -1,6 +1,23 @@
 ---
-sidebar_position: 0
+
 sidebar_label: Introduction
+sidebar_position: 0
+keywords:
+  [
+    Base,
+    Ethereum L2,
+    Coinbase,
+    decentralization,
+    cryptoeconomy,
+    EVM,
+    blockchain,
+    OP Stack,
+    Optimism,
+    intents,
+    web3 UX,
+  ]
+
+slug: /
 ---
 
 # Rivendell: Unifying DeFi for a Frictionless Future
