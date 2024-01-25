@@ -1,5 +1,5 @@
 ---
-sidebar_label: DeFi Fragmentality
+sidebar_label: DeFi Fragmentation
 sidebar_position: 3
 ---
 

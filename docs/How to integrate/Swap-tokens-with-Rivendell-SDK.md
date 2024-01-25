@@ -17,7 +17,7 @@ pnpm install @rivendell/defi
 ```
 <br/>
 
-**Import & Initialize the Staking class**
+**Import & Initialize the Swapping class**
 
 ```
 import { Riv } from '@rivendell/defi'
@@ -26,7 +26,7 @@ const riv = new Riv('test-api-key')
 ```
 <br/>
 
-**Paste this line of code to enable seamless staking**
+**Paste this line of code to enable seamless swap of tokens**
 
 ```
 const stakeTx = await riv.swap({ chainId, amount, fromToken, toToken, from })
@@ -34,7 +34,8 @@ const stakeTx = await riv.swap({ chainId, amount, fromToken, toToken, from })
 ```
 <br/>
 
-**This would generate the txn object; after it's done, it should log the following data**
+**This would generate the 2 txn objects; one for approval and one to execute transactions**
+**after it's done, it should log the following data**
 
 ```
 {
@@ -45,8 +46,8 @@ const stakeTx = await riv.swap({ chainId, amount, fromToken, toToken, from })
 
 ```
 
-***The above transaction object can be signed by EOA's, AA's, etc to execute swapping of tokens.***
+***The above transaction objects can be signed by EOA's, AA's, etc to execute swapping of tokens.***
 
-> Here's the ***[example repository](https://github.com/0xRivendell/stake_example)*** to get started with swapping tokens.
+> Tutorial coming soon !
 >
 > If you have any questions, issues, or feedback, please file an issue on GitHub, or drop us a message on our [Telegram](https://t.me/+_T7LjgVsmoI1ZDQ1) channel for the SDK.

@@ -19,7 +19,7 @@ pnpm install @rivendell/defi
 ```
 <br/>
 
-**Import & Initialize the Staking class**
+**Import & Initialize the Bridging class**
 
 ```
 import { Riv } from '@rivendell/defi'
@@ -28,7 +28,7 @@ const riv = new Riv('test-api-key')
 ```
 <br/>
 
-**Paste this line of code to enable seamless staking**
+**Paste this line of code to enable seamless bridging**
 
 ```
 const bridgeTxn = await riv.bridge({ fromChainId, toChainId, token, amount, from })
@@ -36,7 +36,8 @@ const bridgeTxn = await riv.bridge({ fromChainId, toChainId, token, amount, from
 ```
 <br/>
 
-**This would generate the txn object; after it's done, it should log the following data**
+**This would generate two txn objects; one for approval and one to execute transactions**
+**after it's done, it should log the following data**
 
 ```
 {
@@ -47,10 +48,8 @@ const bridgeTxn = await riv.bridge({ fromChainId, toChainId, token, amount, from
 
 ```
 
-***The above transaction object can be signed by EOA's, AA's, etc to execute Bridiging of tokens from chain to another.***
+***The above transaction objects can be signed by EOA's, AA's, etc to execute Bridging of tokens from chain to another.***
 
-> Here's the ***[example repository](https://github.com/0xRivendell/stake_example)*** to Bridge tokens from Base to Polygon Network (testnet)
->
-> You'll need some Base faucets to bridge it. [Here's the Faucet](https://docs.base.org/tools/network-faucets/)
+> Tutorial coming soon !
 >
 > If you have any questions, issues, or feedback, please file an issue on GitHub, or drop us a message on our [Telegram](https://t.me/+_T7LjgVsmoI1ZDQ1) channel for the SDK.
