@@ -48,6 +48,9 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
+    metadata: [
+      {name: 'keywords', content: 'DeFi, intents, defi automation, web3 UX, crypto, EVM, DeFi Fragmentality, Smart contract wallets, Account abstraction, Zero knowledge, modular'},
+    ],
     navbar: {
       title: 'Rivendell',
       logo: {

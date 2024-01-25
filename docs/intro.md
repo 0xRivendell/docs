@@ -9,16 +9,20 @@ keywords:
     Coinbase,
     decentralization,
     cryptoeconomy,
+    cryptocurrency,
+    crypto,
     EVM,
     blockchain,
     OP Stack,
     Optimism,
     intents,
     web3 UX,
+    defi automation,
   ]
 
 slug: /
 ---
+![Rivendell](../static/img//banner.png)
 
 # Rivendell: Unifying DeFi for a Frictionless Future
 Welcome to Rivendell. - The Future of Web3 Usability! Tired of the cumbersome process of swapping tokens and repaying loans? Bril changes the game. Just type your transaction, and we handle the rest. Dive into our user-friendly world, where complex Web3 tasks become effortless.
